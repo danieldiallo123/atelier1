@@ -1,6 +1,6 @@
-opencv-python
-opencv-contrib-python
-onnxruntime
-ultralytics
-deep_sort_realtime
 streamlit
+opencv-python-headless
+ultralytics
+numpy
+pandas
+PyYAML
